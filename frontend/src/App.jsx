@@ -15,7 +15,7 @@ const PrivateRoute = ({ children }) => {
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-slate-900 text-slate-100 font-sans selection:bg-blue-500/30">
+      <div className="min-h-screen bg-gray-50 text-gray-900 font-sans selection:bg-blue-200">
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />

@@ -1,25 +1,25 @@
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\ProjectDto.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\TaskDto.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\BackendApplication.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\UserController.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\DashboardController.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\JwtResponse.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\LoginRequest.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\JwtAuthFilter.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Priority.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Role.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\UserDetailsServiceImpl.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\UserRepository.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Status.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Task.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Project.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\JwtUtil.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\UserDetailsImpl.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\SignupRequest.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\ProjectController.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\TaskController.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\User.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\ProjectRepository.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\TaskRepository.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\AuthController.java
-C:\Users\Abhay Singla\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\SecurityConfig.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\ProjectController.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\UserDetailsServiceImpl.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\TaskDto.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\UserRepository.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\JwtAuthFilter.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\User.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\TaskController.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\LoginRequest.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\AuthController.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Task.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\JwtUtil.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\SecurityConfig.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Project.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\TaskRepository.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\SignupRequest.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\security\UserDetailsImpl.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\JwtResponse.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\repository\ProjectRepository.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Role.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Priority.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\model\Status.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\UserController.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\BackendApplication.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\dto\ProjectDto.java
+C:\Users\singl\OneDrive\Desktop\new\backend\src\main\java\com\taskmanager\backend\controller\DashboardController.java
